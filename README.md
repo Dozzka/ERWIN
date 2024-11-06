@@ -1,2 +1,2 @@
 Контроль версия по дисциплине "Методы и средства проектирования информационных систем и технологий"
-![Полная вложенность]​(https://ltdfoto.ru/images/2024/11/07/Untitled-Diagram.drawio.png)
+![Полная вложенность]​(https://github.com/Dozzka/ERWIN/blob/master/schema.png?raw=true)
