@@ -1,2 +1,3 @@
 Контроль версия по дисциплине "Методы и средства проектирования информационных систем и технологий"
-![Полная вложенность]​(https://github.com/Dozzka/ERWIN/blob/master/schema.png?raw=true)
+
+![Полная вложенность]​(https://github.com/Dozzka/ERWIN/blob/master/schema.png)
